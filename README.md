@@ -2,7 +2,7 @@ documentationjs-demo
 ====
 
 A minimal demo on the basics of [Documentation.js][1]. See a demo on the
-generated documentation at https://github.com/mig8447/documentationjs-demo
+generated documentation at https://mig8447.github.io/documentationjs-demo/
 
 # Installation
 
